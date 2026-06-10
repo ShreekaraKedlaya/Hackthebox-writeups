@@ -10,8 +10,8 @@ A collection of my write-ups for Hack The Box machines. Each one documents the f
 
 | Machine | OS | Difficulty | Topics |
 |---|---|---|---|
-| [Silentium](./Silentium/README.md) | Linux | Medium | Subdomain fuzzing, Flowise RCE, CVE chaining, password reuse, Gogs, port forwarding, priv esc |
-| [Reactor](./Reactor/README.md) | Linux | Easy | Next.js RCE (CVE-2025-55182), SQLite credential extraction, Node.js debug port hijacking |
+| [Silentium](silentium.md) | Linux | Medium | Subdomain fuzzing, Flowise RCE, CVE chaining, password reuse, Gogs, port forwarding, priv esc |
+| [Reactor](./Reactor.md) | Linux | Easy | Next.js RCE (CVE-2025-55182), SQLite credential extraction, Node.js debug port hijacking |
 
 ---
 
