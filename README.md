@@ -13,6 +13,7 @@ A collection of my write-ups for Hack The Box machines. Each one documents the f
 | [Silentium](silentium.md) | Linux | Easy | Subdomain fuzzing, Flowise RCE, CVE chaining, password reuse, Gogs, port forwarding, priv esc |
 | [Reactor](./Reactor.md) | Linux | Easy | Next.js RCE (CVE-2025-55182), SQLite credential extraction, Node.js debug port hijacking |
 | [Kobold](./Kobold.md) | Linux | Easy | mcp server Arcane Docker Management RCE (CVE-2026-23520), Docker socket abuse, chroot privesec  |
+| [cctv](./cctv.md) | Linux | Easy | ZoneMinder SQLi (CVE-2024-51482), hash cracking, SSH tunneling, motionEye RCE (CVE-2025-60787) |
 ---
 
 ## About
