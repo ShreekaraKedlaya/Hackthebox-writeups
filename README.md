@@ -14,6 +14,9 @@ A collection of my write-ups for Hack The Box machines. Each one documents the f
 | [Reactor](./Reactor.md) | Linux | Easy | Next.js RCE (CVE-2025-55182), SQLite credential extraction, Node.js debug port hijacking |
 | [Kobold](./Kobold.md) | Linux | Easy | mcp server Arcane Docker Management RCE (CVE-2026-23520), Docker socket abuse, chroot privesec  |
 | [cctv](./cctv.md) | Linux | Easy | ZoneMinder SQLi (CVE-2024-51482), hash cracking, SSH tunneling, motionEye RCE (CVE-2025-60787) |
+| [Nexus](./Nexus.md) | Linux | Medium | Subdomain fuzzing, Gitea commit history credential leak, Krayin CRM RCE (CVE-2026-38526), password reuse, Gitea template-sync path traversal priv esc |
+| [Orion](./Orion.md) | Linux | Easy | Craft CMS pre-auth RCE (CVE-2025-32432), leaked DB creds, bcrypt hash cracking, telnetd auth bypass priv esc (CVE-2026-24061) |
+
 ---
 
 ## About
